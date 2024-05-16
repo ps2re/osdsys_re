@@ -16,7 +16,6 @@ python3 -m pip install -U -r requirements.txt
 ### Setup
 
 1. `./configure.py`
-2. `ninja`
 
 ### License
 
